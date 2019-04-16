@@ -1,7 +1,7 @@
 export default function() {
   return [
-    { title: "Harry Potter" },
-    { title: "Homo Sapiens" },
-    { title: "Black Swan" }
+    { title: "Harry Potter", pages: 100 },
+    { title: "Homo Sapiens", pages: 150 },
+    { title: "Black Swan", pages: 200 }
   ];
 }
